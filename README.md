@@ -1,5 +1,6 @@
 # NTJ-matplotlib
 :octocat: This repository contains the notes and code examples of matplotlib.<br></br>
+The notes contain the modules outlined below:<br>
 |No.| Module| Gist|
 |---|---|---|
 |1|Basic|<li>Meet Matplotlib</li><li>A simple example</li><li>Figure composition</li><li>Two drawing interfaces</li><li>General drawing template</li>
