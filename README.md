@@ -1,4 +1,4 @@
-# NTJ-matplotlib
+# NTJ-Python_Data_Matplotlib
 :octocat: This repository contains the notes and code examples of matplotlib.<br></br>
 The notes contain the modules outlined below:<br>
 |No.| Module| Gist|
